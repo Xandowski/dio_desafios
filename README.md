@@ -1,6 +1,6 @@
-# Reposiório para desafios de projetos da paltaforma da Digital Innovation One.
+# Reposiório para desafios de projetos da plataforma da Digital Innovation One.
 
-## Desafio Infraestrutura como Código:
+## Desafio Infraestrutura como código:
 
 Script de Criação de Estrutura de Usuários, Diretórios e Permissões.
 
